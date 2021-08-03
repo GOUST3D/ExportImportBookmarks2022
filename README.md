@@ -3,7 +3,7 @@ Creative Commons
 Tools for importing and exporting .json data from the Bookmark Manager featured in Maya 2022
 
 
-#| Installation
+#  | Installation
 
 Create shelf buttons: RMB > Edit > Copy Paste Code > Set to "Python"
 
