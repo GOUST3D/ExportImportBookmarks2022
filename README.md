@@ -5,8 +5,10 @@ Tools for importing and exporting .json data from the Bookmark Manager featured 
 
 #| Installation
 
-Create shelf buttons: RMB > Edit > Copy Paste Code > Set to "Python"\n
-I like to set the in / out icons to: outArrow, inArrow\n
+Create shelf buttons: RMB > Edit > Copy Paste Code > Set to "Python"
+
+I like to set the in / out icons to: outArrow, inArrow
+
 and name them "impBM" / "expBM"
 
 
