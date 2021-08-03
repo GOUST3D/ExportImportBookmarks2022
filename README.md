@@ -14,6 +14,12 @@ I like to set the in / out icons to: outArrow, inArrow
 and name them "impBM" / "expBM"
 
 
+#  | Usage
 
+Export: Saves a "BookmarkExport.json" into the same folder as the scene file
+
+Import: Loads "BookmarkExport.json" into the same scene file as the folder
+
+Update: Sometimes you have to hit import twice to make sure it replaces the values, if you have a field already selected.
 
 #  Enjoy!
